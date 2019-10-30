@@ -1,6 +1,6 @@
 {
   "name": "react-awesome-modal",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "This is a React Modal Component.",
   "main": "./src/index",
   "keywords": [
@@ -10,7 +10,7 @@
     "react-component"
   ],
   "files": [
-    "lib"
+    "src"
   ],
   "directories": {
     "example": "examples"
